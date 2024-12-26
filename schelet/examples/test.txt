@@ -1,0 +1,15 @@
+String b
+Bool true
+Int 22541
+Int 213
+Bool false
+IO
+Int 451
+Coffee StarDollars petite 1500
+Bool false
+END
+help
+print 1
+sortBy 1 PriceComparator ascendant
+print 1
+exit
